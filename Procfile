@@ -1,0 +1,1 @@
+web: bin/open-hack-u-2020-backend
